@@ -9,7 +9,7 @@ document.body.appendChild(script);
 // Header
 
 let header = $(`
-<nav class="navbar navbar-expand-lg fixed-top light-theme" id="navbar">
+<nav class="navbar navbar-expand-lg fixed-top light-theme dark-theme" id="navbar">
 <a class="navbar-brand" style="font-family:monospace" href="index.html">Prathamesh</a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
